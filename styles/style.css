@@ -146,7 +146,6 @@ address {
     font-size: 22px;
     font-weight: 400;
     text-transform: uppercase;
-    border: 1px solid;
     box-sizing: border-box;
     padding: 13px 32px;
 }
